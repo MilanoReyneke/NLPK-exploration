@@ -125,5 +125,5 @@ print(posessions)
 # In[ ]:
 
 
-# the nltk does not seem to correctly identify the phrase "thy brow." Possibly because it is archaic English
+# the nltk package does not seem to correctly identify the phrase "thy brow." Possibly because it is archaic English
 
